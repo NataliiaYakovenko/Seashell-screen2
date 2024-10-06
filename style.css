@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      background-image: url(./assets/shell.jpg);
+      background-size:cover;
+      background-position: 25% 73%;
+      background-repeat: no-repeat;
+      height: 380px;
+      font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  h1 {
+      font-size:45px;
+      line-height: 20px;
+      color: #926239;
+      translate: 0 2rem;
+  }
+  p {
+      font-size:16px;
+      line-height: 60px;
+      color: #926239;
+      translate: 0 2rem;
+  }
+  a {
+      color: #926239;
+      text-decoration: none;
+      border: 1px solid #926239;
+      padding: 15px;
+      border-radius: 7px; 
+      line-height: 110px;
+      background-color:none;
+      font-size:15px;
+      translate: 0 4rem;
+  }
+  a:hover {
+      background: #926239;
+      color:white;}
+  
+  .block {    
+      font-size: 0;
+      translate: 0 15rem;
+  }
+  .text1 {
+      border: 5px solid #926239;
+      color: white;
+      background-color: #926239;
+      display: inline-block;
+      font-size: 20px;
+      width: 100%;
+      font-size: 15px;
+      line-height: 25px;
+      padding: 10px;
+  }
+  .text2 {
+      border: 5px solid white;
+      color:#926239;
+      background-color:white;
+      display: inline-block;
+      font-size: 20px;
+      width: 100%;
+      font-size: 15px;
+      line-height: 25px;
+      padding: 10px;
+  }
+  .text3 {
+      border: 5px solid #926239;
+      color: white;
+      background-color: #926239;
+      display:inline-block;
+      width: 33.33%;
+      font-size: 15px;
+      line-height: 25px;
+      padding: 10px;
+  }
+  .text4 {
+      border: 5px solid white;
+      color:#926239;
+      background-color:white;
+      display:inline-block;
+      width: 33.33%;
+      font-size: 15px;
+      line-height: 25px;
+      padding: 10px;
+  }
+  .text5 {
+      border: 5px solid #926239;
+      color: white;
+      background-color: #926239;
+      display:inline-block;
+      width: 33.33%;
+      font-size: 15px;
+      line-height: 25px;
+      padding: 10px; 
+  }
+  
