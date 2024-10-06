@@ -76,6 +76,7 @@
       font-size: 15px;
       line-height: 25px;
       padding: 10px;
+      text-align: left;
   }
   .text4 {
       border: 5px solid white;
@@ -86,6 +87,7 @@
       font-size: 15px;
       line-height: 25px;
       padding: 10px;
+      text-align: left;
   }
   .text5 {
       border: 5px solid #926239;
@@ -95,6 +97,7 @@
       width: 33.33%;
       font-size: 15px;
       line-height: 25px;
-      padding: 10px; 
+      padding: 10px;
+      text-align: left; 
   }
   
